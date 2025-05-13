@@ -69,30 +69,6 @@
 
 ---
 
-## 3. Pain Points & Suggestions
-
-### Common Complaints:
-- App Lag/Glitches (mentioned 3 times)  
-- Poor Restaurant Info Clarity  
-- Confusing Navigation  
-
-### Requested Improvements:
-- Better UI/Visual Appeal (3 mentions)  
-- Faster Loading Times  
-- Simpler Ordering Process  
-- Push Notifications  
-
----
-
-## 4. Recommendations
-1. **Improve App Performance:** Address lag and stability issues.  
-2. **Enhance Navigation:** Simplify access to key features (e.g., transactions, adding funds).  
-3. **Redesign Restaurant Info:** Make hours/locations clearer.  
-4. **Streamline Ordering:** Reduce steps and improve confidence.  
-5. **Add User-Requested Features:**  
-   - Deals/promotions on the main screen.  
-   - Customizable orders.  
-   - Push notifications.  
 
 # Future Usage
 - Likelihood to use in future: 3.43/5
