@@ -1,70 +1,98 @@
 [Back To Main](README.md)
 
-# Respondent Demographics
+# User Feedback Report
 
-## Class Years:
-- 2 Seniors (28.6%)
-- 3 Juniors (42.9%)
-- 1 Sophomore (14.3%)
-- 1 Freshman (14.3%)
+## 1. Demographics & Usage Patterns
 
-## Usage Duration:
-- 4 users (57.1%) for 1-6 months
-- 2 users (28.6%) for 6-12 months
-- 1 user (14.3%) for 1+ year
+### Class Year Distribution:
+- **Senior**: 2  
+- **Junior**: 3  
+- **Sophomore**: 1  
+- **Freshman**: 1  
 
-## Usage Frequency:
-- 3 users (42.9%) less than once per month
-- 2 users (28.6%) few times per month
-- 1 user (14.3%) few times per week
-- 1 user (14.3%) once daily
+### Usage Duration:
+- **1-6 Months**: 3  
+- **6-12 Months**: 3  
+- **1 Year+**: 1  
 
-# Key Findings
+### Usage Frequency:
+- **Less than once per month**: 3  
+- **Few times per month**: 2  
+- **Few times per week**: 1  
+- **Once daily**: 1  
 
-## Login Experience
-- Average difficulty rating: 4.14/5 (1=very easy, 5=very difficult)
-- No users reported login problems
+---
 
-## Account Balance Features
-- Finding balance difficulty: 4.57/5
-- Balance clarity rating: 4.57/5
+## 2. Key Findings
 
-## Dining Information
-- Finding Wings & MO difficulty: 4.29/5
-- Restaurant info clarity: 3.71/5
+### A. User Comfort & Experience
+- **Mobile App Comfort (General):**  
+  - Average: 3.7/5  
+  - Range: 2–5  
 
-## Ordering Process
-- Placing order difficulty: 4.29/5
-- Confidence in process: 4.14/5
+- **GET Mobile Comfort:**  
+  - Average: 3.6/5  
+  - Range: 2–5  
 
-## Transaction History
-- Finding transactions difficulty: 4.57/5
-- Transaction clarity: 4.43/5
+- **Login Difficulty:**  
+  - Average: 4.1/5 (moderate difficulty)  
+  - No major login issues reported.  
 
-## Notifications
-- Checking notifications difficulty: 3.86/5
-- Notification helpfulness: 3.71/5
+### B. Feature-Specific Insights
 
-## Adding Funds
-- Finding add funds difficulty: 3.71/5
-- Comfort adding funds: 4/5
+| Feature                | Difficulty (Avg) | Clarity (Avg) | Notes                                      |
+|------------------------|------------------|---------------|--------------------------------------------|
+| Account Balance        | 4.4/5            | 4.6/5         | High clarity but moderately difficult to find. |
+| Wings & MO (Restaurants)| 4.3/5           | 3.4/5         | Difficulty in finding; mixed clarity on info. |
+| Placing Orders         | 4.3/5            | 4.0/5         | Some struggled with steps (confidence: 3.8/5). |
+| Transactions           | 4.6/5            | 4.4/5         | Hard to find but clear once accessed.      |
+| Notifications          | 4.6/5            | 4.0/5         | Some found them unhelpful.                 |
+| Adding Funds           | 4.0/5            | 3.8/5         | Some discomfort with the process.          |
 
-# Overall Ratings
-- Average experience rating: 3.71/5
-- Average design rating: 3.43/5
-- Average navigation rating: 4/5
+### C. Most & Least Useful Features
+- **Most Useful (Top 3):**  
+  1. Placing food orders (5 mentions)  
+  2. Checking account balance (4 mentions)  
+  3. Viewing transaction history (4 mentions)  
 
-# Feature Analysis
+- **Most Difficult (Top 3):**  
+  1. Setting up auto deposits (4 mentions)  
+  2. Altering card/account settings (4 mentions)  
+  3. Placing food orders (3 mentions)  
 
-## Most Useful Features (Top 3):
-1. Checking account balance (5 mentions)
-2. Placing food orders (5 mentions)
-3. Viewing transaction history (4 mentions)
+### D. Ratings & Future Use
+- **Overall Experience:** 3.6/5  
+- **Visual Design:** 3.3/5  
+- **Navigation Ease:** 3.9/5  
+- **Likelihood to Use in Future:** 3.3/5  
+- **Likelihood to Recommend:** 3.0/5  
 
-## Most Difficult Features (Top 3):
-1. Setting up auto deposits (4 mentions)
-2. Alter Card Settings (4 mentions)
-3. Alter Account Settings (3 mentions)
+---
+
+## 3. Pain Points & Suggestions
+
+### Common Complaints:
+- App Lag/Glitches (mentioned 3 times)  
+- Poor Restaurant Info Clarity  
+- Confusing Navigation  
+
+### Requested Improvements:
+- Better UI/Visual Appeal (3 mentions)  
+- Faster Loading Times  
+- Simpler Ordering Process  
+- Push Notifications  
+
+---
+
+## 4. Recommendations
+1. **Improve App Performance:** Address lag and stability issues.  
+2. **Enhance Navigation:** Simplify access to key features (e.g., transactions, adding funds).  
+3. **Redesign Restaurant Info:** Make hours/locations clearer.  
+4. **Streamline Ordering:** Reduce steps and improve confidence.  
+5. **Add User-Requested Features:**  
+   - Deals/promotions on the main screen.  
+   - Customizable orders.  
+   - Push notifications.  
 
 # Future Usage
 - Likelihood to use in future: 3.43/5
