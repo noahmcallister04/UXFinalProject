@@ -1,4 +1,5 @@
 # UXFinalProject
+Noah McAllister
 
 ## App Selection Phase
 - Select a campus-related app for usability testing.
@@ -49,6 +50,6 @@ For a breakdown of each question click[Here](DataAnalysis.md)
 ## Recommendations and Reporting Phase
 
 ### Recommendations
-1. **Improve App Performance:** Address lag and stability issues.  
-3. **Redesign Restaurant Info:** Make hours/locations clearer.  
-4. **Streamline Ordering:** Reduce steps and improve confidence.  
+1. **Improve App Performance:** Address lag and stability issues. The app consistently stutters and buffers between actions.
+3. **Redesign Restaurant Info:** Make hours/locations clearer. I suggest displaying the hours, even while the restaurant is closed to improve clarity of when they are open. 
+4. **Streamline Ordering:** Reduce steps and improve confidence. I suggest that after adding a item to your cart, the app automatically opens the full menu. 
