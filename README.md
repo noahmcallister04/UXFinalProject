@@ -1,6 +1,8 @@
 # UXFinalProject
 
-[Here](DataAnalysis.md)
+# Data Analysis Phase
+For a breakdown of each question click[Here](DataAnalysis.md)
+
 ## Pain Points & Suggestions
 
 ### Common Complaints:
@@ -15,7 +17,7 @@
 
 ---
 
-## Recommendations
+### Recommendations
 1. **Improve App Performance:** Address lag and stability issues.  
 3. **Redesign Restaurant Info:** Make hours/locations clearer.  
 4. **Streamline Ordering:** Reduce steps and improve confidence.  
