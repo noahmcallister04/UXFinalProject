@@ -46,6 +46,8 @@ For a breakdown of each question click[Here](DataAnalysis.md)
 
 ---
 
+# Recommendations and Reporting Phase
+
 ### Recommendations
 1. **Improve App Performance:** Address lag and stability issues.  
 3. **Redesign Restaurant Info:** Make hours/locations clearer.  
