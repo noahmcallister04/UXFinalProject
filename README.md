@@ -2,15 +2,10 @@
 Noah McAllister
 
 ## App Selection Phase
-- Select a campus-related app for usability testing.
-- Ensure access to users who are representative of the app's target audience.
   
 **Selected App:** GET Mobile app  
+**Description:** GET Mobile is used by mizzou students to manage their meal plan. It is mostly used for payment of meals, placing online orders, and managing meal plans.
 **User Pool:** Mizzou students with campus dining plans (tested through roommates/friends)
-
-## Test Planning Phase
-1. Define usability testing objectives and specific tasks/scenarios
-2. Create testing protocol outlining process, tasks, and data collection methods
 
 ### Testing Objectives:
 - Identify Areas of Confusion
